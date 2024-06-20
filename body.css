@@ -1,0 +1,122 @@
+/*Font Awesome Password: nZvZWykihwEt9f$*/
+
+body {
+    background-color:rgb(29, 41, 41)
+}
+ul.sites{
+    list-style-type:none;
+}
+
+ol.tutorials{
+    text-align: left;
+}
+h1{
+    font-size: 2.5em;
+}
+.one{
+    background-color:rgb(29, 27, 34);
+    margin-top:12px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:8px;
+    border: 2px solid rgb(16, 19, 17);
+    width: 63%;
+    padding: 1%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.two{
+    background-color: rgb(29, 27, 34);
+    border-radius: 8px;
+    border: 2px solid rgb(16, 19, 17);
+    position: fixed;
+    top: 12px;
+    left: 14px;
+    padding: 1%;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body{
+    background-color:rgb(29, 27, 34);
+    top:9px;
+    margin-top:16px;
+    margin-right:12px;
+    border-radius:8px;
+    bottom:16px;
+    border: 2px solid rgb(16, 19, 17);
+    width: 80.8%;
+    padding: 5px;
+    text-align: center;
+    float:right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+/*.three{
+    background-color: rgb(29, 27, 34);
+    border-radius: 8px;
+    border: 2px solid rgb(16, 19, 17);
+    position: absolute;
+    top: 12px;
+    float:right;
+    right: 18px;
+    padding: 24px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}*/
+
+a:link{
+    color:#a2e4a2;
+    text-decoration:none;
+}
+a:visited{
+    color:#65d793;
+    text-decoration:none;
+}
+a:hover{
+    color:rgb(76, 234, 205);
+    text-decoration:none;
+}
+a:active{
+     color:rgb(76,234,205);
+    text-decoration:none;
+}
+
+.button {
+    background-color:rgb(82, 171, 78);
+    border: 3px solid black;
+    top: 45px;
+    right: 74px;
+    padding: 3.5% 3.2%;
+    display: inline-block;
+    cursor: pointer;
+    float:right;
+    position: absolute;
+    border-radius: 100%;
+    
+}
+.button:hover{
+    background-color:rgb(33, 62, 35);
+    border: 3px solid black;
+    padding: 3.5% 3.2%;
+    display: inline-block;
+    cursor: pointer;
+    float:right;
+    position: absolute;
+    border-radius: 100%
+}
+.fa-house{
+    color:black;
+}
+
+.footer{
+    background-color:#115425;
+    position:fixed;
+    text-align:center;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    border-radius: 8px;
+    padding: .5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
