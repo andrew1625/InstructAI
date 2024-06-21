@@ -1,7 +1,7 @@
 /*Font Awesome Password: nZvZWykihwEt9f$*/
 
 body {
-    background-color:rgb(29, 41, 41)
+    background-color:rgb(137, 232, 175)
 }
 
 ul.sites{
@@ -15,7 +15,7 @@ h1{
     font-size: 2.5em;
 }
 .one{
-    background-color:rgb(29, 27, 34);
+    background-color:rgb(66, 176, 99);
     margin-top:12px;
     margin-left:auto;
     margin-right:auto;
@@ -28,7 +28,7 @@ h1{
     
 }
 .two{
-    background-color: rgb(29, 27, 34);
+    background-color:rgb(66, 177, 99);
     border-radius: 8px;
     border: 2px solid rgb(16, 19, 17);
     position: fixed;
@@ -40,7 +40,7 @@ h1{
 }
 
 .body{
-    background-color:rgb(29, 27, 34);
+    background-color:rgb(66, 177, 99);
     top:9px;
     margin-top:16px;
     margin-right:12px;
@@ -67,19 +67,19 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}*/
 
 a:link{
-    color:#a2e4a2;
+    color:#163216;
     text-decoration:none;
 }
 a:visited{
-    color:#65d793;
+    color:#073b33;
     text-decoration:none;
 }
 a:hover{
-    color:rgb(76, 234, 205);
+    color:rgb(33, 95, 60);
     text-decoration:none;
 }
 a:active{
-     color:rgb(76,234,205);
+     color:rgb(33, 95, 60);
     text-decoration:none;
 }
 
@@ -108,7 +108,7 @@ a:active{
 }
 
 .switch {
-    background-color: rgb(10, 142, 3);
+    background-color: rgb(52, 190, 45);
     border-radius: 8px;
     border: 2px solid rgb(16, 19, 17);
     position: fixed;
@@ -120,7 +120,7 @@ a:active{
 }
 
 .switch:hover{
-    background-color: rgb(77, 176, 72);
+    background-color: rgb(28, 118, 23);
     border-radius: 8px;
     border: 2px solid rgb(16, 19, 17);
     position: fixed;
@@ -130,12 +130,13 @@ a:active{
     text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 .fa-house{
     color:black;
 }
 
 .footer{
-    background-color:#115425;
+    background-color:#0b8548;
     position:fixed;
     text-align:center;
     bottom:0px;
